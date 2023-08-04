@@ -23,11 +23,11 @@ Users should be able to:
 
 ### Screenshot
 ![desktop](screenshot/desktop.png)
-![mobile](screenshot/mobile.png)
 ![active](screenshot/active.png)
+![mobile](screenshot/mobile.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://yacodingroom.github.io/results-summary/
 
 ## My process
 ### Built with
